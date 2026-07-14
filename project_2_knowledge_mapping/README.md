@@ -28,3 +28,4 @@
 - Формировать проектные команды на основе данных
 
 ## 🖼 Визуализация
+<img width="2412" height="1354" alt="проект 2" src="https://github.com/user-attachments/assets/6fd21653-1621-4045-8c42-f51510b4059a" />
