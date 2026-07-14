@@ -23,22 +23,22 @@
 
 ## Проекты
 
-### 🔗 Картирование социального графа
+### [🔗 Социальный граф](https://github.com/sodobiv/business-analyst-portfolio/tree/main/project_1_social_graph)
 Анализ коммуникаций в команде из 100+ сотрудников. Построен граф, выделены кластеры и «брокеры знаний» для улучшения взаимодействия.
 
-### 🔗 Картирование знаний и дашборд компетенций
+### [🔗 Картирование знаний](https://github.com/sodobiv/business-analyst-portfolio/tree/main/project_2_knowledge_mapping)
 Разработана методология картирования знаний, создан дашборд в Power BI для визуализации экспертизы по направлениям.
 
-### 🔗 Анализ трудозатрат и выручки (дашборд эффективности)
+### [🔗 Дашборд эффективности](https://github.com/sodobiv/business-analyst-portfolio/tree/main/project_3_efficiency_dashboard)
 Построен дашборд в Power BI для анализа распределения ресурсов и рентабельности проектов.
 
-### 🔗 Верификация документации
+### [🔗 Верификация документации](https://github.com/sodobiv/business-analyst-portfolio/tree/main/project_4_documentation_verification)
 Структурирована и проверена документация на 1000+ элементов, создана матрица верификации.
 
-### 🔗 Хакатон для сервиса доставки
+### [🔗 Хакатон (Самокат)](https://github.com/sodobiv/business-analyst-portfolio/tree/main/project_5_hackathon)
 Анализ данных по доставке, разработка гипотез по сокращению задержек на 5–7%.
 
-### 🔗 Научная публикация по графам знаний
+### [🔗 Научная статья](https://github.com/sodobiv/business-analyst-portfolio/tree/main/project_6_scientific_article)
 Статья о применении онтологий для моделирования карт знаний (конференция по ИИ).
 
 ---
