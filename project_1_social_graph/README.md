@@ -29,4 +29,5 @@
 - Усилить взаимодействие между отделами
 
 ## 🖼 Визуализация
+<img width="1918" height="1002" alt="Социальный граф" src="https://github.com/user-attachments/assets/040d1304-9a48-4ddb-97cf-797ac9728d31" />
 
