@@ -27,3 +27,4 @@
 - Исключила использование устаревших или неверных документов
 
 ## 🖼 Визуализация
+<img width="2822" height="1164" alt="Проект 4" src="https://github.com/user-attachments/assets/6f00febe-5a2f-4586-a752-d5b5fe24f163" />
